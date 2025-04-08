@@ -10,7 +10,7 @@ needGenerateH3Content: false
 
 ## 2.4.2000 (10/10/2024)
 
-- The first version of the `Dynamsoft.DotNet.CaptureVision.Bundle` package which integrats the previously separate nuget packages and provides full features of [Dynamsoft Capture Vision ]({{ site.dcvb_introduction }}).
+- The first version of the `Dynamsoft.DotNet.CaptureVision.Bundle` package which integrates the previously separate nuget packages and provides the full features of [Dynamsoft Capture Vision ]({{ site.dcvb_introduction }}).
 
 
 
